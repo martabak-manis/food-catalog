@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
 }
 
+h2 {
+  color: #27ae60;
+}
+
 .nav-bar {
   width: 800px;
   margin: 0px auto 0px auto;
@@ -162,7 +166,7 @@ li a:hover {
   flex-direction: column;
   width: 100%;
   padding: 1rem 3rem 1rem 1rem;
-  color: #7288a2;
+  color: #27ae60;
   font-size: 1.15rem;
   font-weight: 400;
   border-bottom: 1px solid #e5e5e5;
