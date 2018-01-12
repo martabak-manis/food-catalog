@@ -1,3 +1,10 @@
+.nav-bar {
+  width: 1200px;
+  margin: 0px auto 0px auto;
+  height: 150px;
+  background-color: #16a085;
+}
+
 .main {
   width: 1200px;
   height: auto;
@@ -7,7 +14,7 @@
 }
 
 .box-food {
-  width: 300px;
+  width: 25%;
   height: 250px;
   background-color: #2ecc71;
   margin: 10px 5px 10px 5px;
@@ -16,7 +23,7 @@
 }
 
 .box-food img {
-  width: 300px;
+  width: 100%;
   height: 200px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
