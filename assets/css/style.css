@@ -1,5 +1,6 @@
 body {
   background: #ecf0f1;
+  font-family: sans-serif;
 }
 
 .nav-bar {
@@ -135,4 +136,9 @@ li a:hover {
   color: #000;
   text-decoration: none;
   cursor: pointer;
+}
+
+.footer {
+  color: #27ae60;
+  font-family: sans-serif;
 }
