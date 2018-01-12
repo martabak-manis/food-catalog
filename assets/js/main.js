@@ -25,10 +25,8 @@ var span5 = document.getElementById(`close5`);
 var span6 = document.getElementById(`close6`);
 var span7 = document.getElementById(`close7`);
 
-var modalWindow = document.getElementsByClassName('modal');
-
 btn0.onclick = function(){
-  modal0.style.display = `block`;
+  modal0.style.display =`block`;
 }
 
 
@@ -94,11 +92,3 @@ span6.onclick = function(){
 span7.onclick = function(){
   modal7.style.display = `none`;
 }
-
-/*
-window.onclick = function(){
-  if(event.target == modalWindow){
-    modalWindow.style.display = `none`;
-  }
-}
-*/
